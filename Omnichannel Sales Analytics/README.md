@@ -5,7 +5,7 @@ Designed and built an end-to-end Power BI report tracking revenue streams across
 ---
 
 ## Data Architecture and Data Modelling
-**Schema:** Star Schema connecting multiple transactional fact tables ('Fact_Online_Sale', 'Fact_Physical_Sale', 'Fact_Monthly_Target') to centralized dimension tables ('Dim_Calendar', 'Dim_Products').
+**Schema:** Star Schema connecting multiple transactional fact tables ('Fact_Online_Sale', 'Fact_Physical_Sale', 'Fact_Monthly_Target') to centralized dimension tables ('Dim_Calendar', 'Dim_Products'). ![Data Model](./Screenshot%202026-08-27%20010106.png)
 **Time Intelligence:** Handled dual-date dynamics ('OrderDate' vs 'DeliveryDate') by implementing 'USERELATIONSHIP' in DAX to dynamically modify active relationship contexts for accurate time-series reporting.
 
 ---
