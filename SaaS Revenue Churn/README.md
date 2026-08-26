@@ -6,7 +6,7 @@ Built an interactive SaaS analytics report tracking Monthly Recurring Revenue (M
 ---
 
 ## Data Architecture and Data Modelling
-**Schema:** Modeled a multi-fact schema connecting subscription life cycles ('Fact_Subscriptions') and one-time purchases ('Fact_AddOn_Purchases') to shared plan and date dimensions.
+**Schema:** Modeled a multi-fact schema connecting subscription life cycles ('Fact_Subscriptions') and one-time purchases ('Fact_AddOn_Purchases') to shared plan and date dimensions. ![Data Model Schema](./Screenshot%202026-08-27%20012011.png)
 **Time Intelligence:** Applied DAX  relationship overrides ('USERELATIONSHIP') between 'Dim_Calendar', 'SignupDate', and 'CancellationDate' to calculate customer acquisition vs churn rates over time.
 
 ---
