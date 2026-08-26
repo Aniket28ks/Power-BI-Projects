@@ -9,6 +9,11 @@ Designed a star-schema analytics dashboard modeling total revenue performance ($
 **Schema:** Designed a star schema connecting logistics operations, warehouse inventories, and shipping status data to unified dimension tables.
 **Time Intelligence:** Applied dual-date modeling using DAX relationship overrides ('USERELATIONSHIP') to independently analyze volume metrics across order placement dates vs actual delivery completion dates.
 
+### Data Model and Visual Overview
+![Data Model Schema](./Screenshot%202026-08-27%20015503.png)
+
+![Dashboard Overview](./Screenshot%202026-08-27%20015520.png)
+
 ---
 
 ## Core Technical Implementation
