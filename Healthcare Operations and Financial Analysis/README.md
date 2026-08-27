@@ -6,7 +6,7 @@ Designed an operational analytics dashboard modeling $11.5K in patient treatment
 ---
 
 ## Data Architecture and Data Modelling
-**Schema:** Integrated multi-fact schemas connecting patient admission logs, department budgets, and clinical treatment cost tables to shared dimension models.
+**Schema:** Integrated multi-fact schemas connecting patient admission logs, department budgets, and clinical treatment cost tables to shared dimension models. ![Data Model Schema](./Screenshot%202026-08-27%20021326.png)
 **Time Intelligence:** Handled dual-date relationships using DAX relationship overrides ('USERELATIONSHIP') between patient admission and discharge timestamps for accurate dynamic time-series modeling.
 
 ---
