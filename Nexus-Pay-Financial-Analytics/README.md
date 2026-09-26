@@ -1,6 +1,6 @@
 # Nexus Pay - Enterprise Financial and Risk Analytics Dashboard 
 ## Project Overview
-**Nexus Pay** is a pan-European (fictional) digital payments and fintech platform managing cross-border transactions across major European nations.This interactive **Power BI Financial Analytics Dashboard** provides executive stakeholders with real-time tracking of transaction processing, revenue performance, fee/tax collections, customer demographics, and operational risk metrics up to **September 2026**.
+**Nexus Pay** is a pan-European digital payments and fintech platform managing cross-border transactions across major European nations. This interactive **Power BI Financial Analytics Dashboard** provides executive stakeholders with real-time tracking of transaction processing, revenue performance, fee/tax collections, customer demographics, and operational risk metrics up to **September 2026**.
 
 ---
 ## Business Key Performance Indicators (KPIs)
