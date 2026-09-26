@@ -44,6 +44,3 @@
 
  ### 2. Transaction Drill-Through Page
  ![Transactions Page](./Screenshot%202026-09-26%20221232.png)
-
-  ### 1. Overview Analysis Page
-  
