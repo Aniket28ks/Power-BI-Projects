@@ -27,17 +27,23 @@
   * `Transactions`: Detailed record-level grid with contextual drill-through capabilities for root-cause transaction auditing.
 * **Navigation and Filtering:** Left-hand navigation pane equipped with active tab indicators and synced global slicers (**Year**, **Dynamic Metric**, **Occupation**, **Category**) across both pages.
 
-* ---
-
-* ## Tech Stack and Tools
+ ---
+ 
+ ## Tech Stack and Tools
 * * **Business Intelligence:** Power BI Desktop
   * **Data ETL and Transformation:** Power Query (M Code)
   * **Calculated Metrics and Data Modeling:** DAX (Data Analytics Expression)
   * **Data Ingestion and Formatting:** CSV Data Files
- 
-  ---
 
-  ## Dashboard Preview
+ ---
+
+ ## Dashboard Preview
+
+ ### 1. Overview Analysis Page 
+ ![Overview Page](./Screenshot%202026-09-26%20221220.png)
+
+ ### 2. Transaction Drill-Through Page
+ ![Transactions Page](./Screenshot%202026-09-26%20221232.png)
 
   ### 1. Overview Analysis Page
   
